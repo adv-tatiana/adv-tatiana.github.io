@@ -1514,8 +1514,9 @@ a {
     color: #212529; }
     .pb_contact_details_v1 li span {
       display: block;
-      font-size: 14px;
-      color: #adb5bd; }
+      font-size: 16px;
+      font-weight: bold;
+      color: #868e96; }
 
 .slick-arrow {
   position: absolute;
