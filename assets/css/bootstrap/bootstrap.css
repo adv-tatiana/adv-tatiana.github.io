@@ -4727,6 +4727,9 @@ a.bg-navy:focus, a.bg-navy:hover {
 .border-light {
   border-color: #f8f9fa !important; }
 
+.border-bordeaux {
+  border-color: #8F3636 !important; }
+
 .border-dark {
   border-color: #343a40 !important; }
 
